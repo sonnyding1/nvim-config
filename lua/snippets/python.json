@@ -1,0 +1,20 @@
+{
+  "main": {
+    "prefix": "main",
+    "body": [
+      "import os",
+      "",
+      "",
+      "def main():",
+      "    script_dir = os.path.dirname(os.path.abspath(__file__))",
+      "    input_path = os.path.join(script_dir, \"input\")",
+      "    with open(input_path) as f:",
+      "        ${0:pass}",
+      "",
+      "",
+      "if __name__ == \"__main__\":",
+      "    main()"
+    ],
+    "description": "main"
+  }
+}
