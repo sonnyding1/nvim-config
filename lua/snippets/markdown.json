@@ -1,0 +1,12 @@
+{
+  "diary template": {
+    "prefix": "diary",
+    "body": [
+      "## 学习",
+      "",
+      "## 生活",
+      ""
+    ],
+    "description": "Add my personal diary template"
+  }
+}
